@@ -1,0 +1,12 @@
+cd
+cd /E
+ls
+git config --global user.name "ST-Blank"
+git config --global user.email "thapasagar81234@gmail.com"
+git clone filelink
+cd foldername
+git add demopc.txt
+git status
+git commit -m "first commit" demopc.txt
+git push -u origin main
+
