@@ -9,4 +9,11 @@ git add demopc.txt
 git status
 git commit -m "first commit" demopc.txt
 git push -u origin main
-
+---------
+for uploading project
+--open project file then open git bash from there then
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin link
+git push origin master
