@@ -17,3 +17,10 @@ git add .
 git commit -m "initial commit"
 git remote add origin link
 git push origin master
+---------
+--for branch
+ git branch
+ git branch -c branchName
+ git add .
+ git commit -m 'commitName'
+ git push origin head
